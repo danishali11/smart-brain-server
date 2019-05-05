@@ -1,0 +1,30 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alertifyjs": "^1.11.2",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "knex": "^0.16.5",
+    "pg": "^7.10.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-alert": "^5.4.0",
+    "react-dom": "^16.8.6",
+    "react-transition-group": "^4.0.0",
+    "sweetalert2": "^8.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "description": ""
+}
